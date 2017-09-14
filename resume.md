@@ -1,10 +1,13 @@
 
-Phone:  808-294-9566 	
-github: [https://github.com/adavis001](https://github.com/adavis001) 
-email: [akonidavis@gmail.com](mailto:akonidavis@gmail.com) 	
-linkedin: [https://www.linkedin.com/in/alexander-davis-8b5968138/](https://www.linkedin.com/in/alexander-davis-8b5968138/)
-
 ## Alexander Davis
+
+Phone:  808-294-9566 	
+
+github: [https://github.com/adavis001](https://github.com/adavis001) 
+
+email: [akonidavis@gmail.com](mailto:akonidavis@gmail.com) 	
+
+linkedin: [https://www.linkedin.com/in/alexander-davis-8b5968138/](https://www.linkedin.com/in/alexander-davis-8b5968138/)
 
 Entry Level Software Engineer enthusiastic about developing software applications to solve real world problems. Adept at interpersonal communication, leadership and teamwork. Able to learn quickly and remain flexible in order to deliver cost-effective timely results.
 
