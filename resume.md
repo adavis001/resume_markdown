@@ -12,7 +12,7 @@ linkedin: [https://www.linkedin.com/in/alexander-davis-8b5968138/](https://www.l
 Entry Level Software Engineer enthusiastic about developing software applications to solve real world problems. Adept at interpersonal communication, leadership and teamwork. Able to learn quickly and remain flexible in order to deliver cost-effective timely results.
 
  
-##### **EXPERIENCE**
+#### **EXPERIENCE**
 
 **Long's CVS**, Hawaii Kai HI  _Pharmacy Technician_
 -Oct 2016 – Feb 2017   
