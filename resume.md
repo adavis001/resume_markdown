@@ -40,7 +40,7 @@ DevLeague is a full stack web development boot camp provides over 800 hours of p
 
 #### **DEVELOPMENT EXPERIENCE**
 **Plan-it-Better** [https://github.com/planit-better/plan-it-better](https://github.com/planit-better/plan-it-better)
--May 2017     
+-May 2017
 Plan-it-better is an event planning app specialized in contacting your entire guest list via text message or e-mail and keeping track of the event&#39;s budget.  Final project for DevLeague, which had me as acting project manager responsible for initial wireframing, delegating tasks to my teammates and defining our minimum viable product in order to meet our two week deadline.  Assisted in the creation of the database and API routing for this project and was responsible for deploying our app to the web.
 
 **React Kanban** [https://github.com/adavis001/React-Kanban](https://github.com/adavis001/React-Kanban)     
