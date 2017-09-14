@@ -1,8 +1,11 @@
 |
 
 Phone:  808-294-9566 	
+
 github: [https://github.com/adavis001](https://github.com/adavis001) 
+
 email: [akonidavis@gmail.com](mailto:akonidavis@gmail.com) 	
+
 linkedin: [https://www.linkedin.com/in/alexander-davis-8b5968138/](https://www.linkedin.com/in/alexander-davis-8b5968138/)
 
 ## Alexander Davis
