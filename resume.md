@@ -45,6 +45,7 @@ Plan-it-better is an event planning app specialized in contacting your entire gu
 
 **React Kanban** [https://github.com/adavis001/React-Kanban](https://github.com/adavis001/React-Kanban)     
 -March 2017		
+
 An interactive to-do list that separates tasks into three separate columns: &quot;Queue&quot;, &quot;In Progress&quot; and &quot;Done&quot;.  Users are able to add a new task with varying levels of priority and assign it to a specific person and dynamically change the status of individual tasks based on its progress. 
 
 **LANGUAGES**
