@@ -19,7 +19,7 @@ Entry Level Software Engineer enthusiastic about developing software application
 Promoted from a clerk to a pharmacy tech in less than a month.  Filled and organized medication for customers, contacted customers regarding insurance or stock issues and with refill reminders.  Retrieved customer medications, handled financial transactions and provided excellent customer service.
     
 **Mattress Firm**, Chicago IL — _Traveling Sales Manager_
--March 2016 – Sept 2017   
+-March 2016 – Sept 2016   
 Responsible for maximizing sales, coordinating with the local warehouse on inventory and delivery issues and deposited any cash payments when necessary.  Managed store operations such as cleaning, setting up signage and scheduling deliveries.  Visited multiple stores a week to assist with sales and operations and worked with regional management to increase the overall performance of the region.
     
 **Advantage Rental Car**, Honolulu HI— _Customer Service Representative_
